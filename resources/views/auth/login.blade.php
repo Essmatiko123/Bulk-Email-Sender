@@ -16,7 +16,7 @@
     <link href="{{ asset('assets/lib/typicons.font/typicons.css') }}" rel="stylesheet">
 
     <!-- azia CSS -->
-    <link href="{{ asset('assets/css/azia.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/azia.min.css') }}" rel="stylesheet">
 
 </head>
 
